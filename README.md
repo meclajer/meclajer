@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel E. Castillo</h1>
 <h3 align="center">A passionate full stack developer jr from México</h3>
 
-- 🔭 I’m currently working on **BimBomB'a**
+- 🔭 I’m currently working on **BimBomBá**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Azure**
 
