@@ -1,6 +1,7 @@
 # Hola, soy Miguel 👋
 
 [![Website](https://img.shields.io/badge/-PAGINA%20WEB-ff652f)](https://meclajer.github.io/PaginaPersonal/)
+[![Website](https://img.shields.io/badge/-BLOG%20PERSONAL-007FDA)](https://meclajer.github.io/my_launchx_blog/)
 
 ## Soy un egresado de Ing. En sistemas computacionales :mortar_board:
 - Actualmente trabajando en _BimBomBá Renta Fiesta_, como desarrollador jr en Flutter. 
